@@ -1,0 +1,15 @@
+org\flipkart\exceptions\QuantityExceedsException.class
+org\flipkart\service\AdminService.class
+org\flipkart\model\Admin.class
+org\flipkart\model\User.class
+org\flipkart\exceptions\ItemNotFoundException.class
+org\flipkart\model\Role.class
+org\flipkart\model\Category.class
+org\flipkart\model\Item.class
+org\flipkart\model\Account.class
+org\flipkart\repository\UserRepository.class
+org\flipkart\exceptions\UserNotFoundException.class
+org\flipkart\InventoryMain.class
+org\flipkart\service\ItemService.class
+org\flipkart\service\UserService.class
+org\flipkart\repository\ItemRepository.class
